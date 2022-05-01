@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vasimh
-- 👀 I’m interested in space exploration
+- 👀 I’m interested in space exploration, as well as C#, java, java-script, node.js, php, web-development, css, html
 - 🌱 I’m currently exploring GitHub space
 - 💞️ I’m looking to collaborate on this activity
 - 📫 How to reach me, currently located in Solar System, on Planet Earth (third planet counting from star)
